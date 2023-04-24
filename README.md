@@ -5,7 +5,7 @@ This repository hosts my projects made in Microsoft MakeCode for the Adafruit Ci
 You can find it on Amazon, that's where I got it. You can also find it on [Adafruit's website.](https://adafruit.com/product/3333)
 
 ## What do these projects do?
-**Alarm** - An alarm that reacts to shock and/or sound. When it's showing the magenta and cyan lights, pressing A or B toggles the shock and sound sensors respectively. Press both buttons at once to toggle silent mode, yellow means silenced and cyan means not silenced.
+**Alarm** - An alarm that reacts to shock and/or sound. When it's showing the magenta and cyan lights, pressing A or B toggles the shock and sound sensors respectively. Slide the switch to the right to arm the device, or left to disarm. Press both buttons at once to toggle silent mode, yellow means silenced and cyan means not silenced.
 
 **Lights** - Hold the A button or slide the switch to the right to show a rainbow pattern. The lights turn white if you hold the B button.
 
