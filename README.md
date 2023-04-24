@@ -13,5 +13,7 @@ You can find it on Amazon, that's where I got it. You can also find it on [Adafr
 
 **PCMedia** - A program that controls media playback on a PC using keyboard input. If the switch is to the left, press A and B for previous/next track or both to play/pause. If the switch is to the right, use A and B for volume up/down and press both to mute/unmute.
 
+**SimpleLight** - A flashlight script. Press the A button to pulse a white light, or use the switch to turn it on or off. Press the B button to toggle between white and red.
+
 ## Can I install these or edit them?
 To install these on your CPX board, simply put the board into bootloader mode and drag the UF2 file for the program you want to the CPLAYBOOT drive. If you want to edit the projects, go to the [CPX MakeCode editor](https://makecode.adafruit.com) and drag the UF2 files into your browser.
