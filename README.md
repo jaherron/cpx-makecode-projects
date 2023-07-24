@@ -15,5 +15,7 @@ You can find it on Amazon, that's where I got it. You can also find it on [Adafr
 
 **SimpleLight** - A flashlight script. Press the A button to pulse a white light, or use the switch to turn it on or off. Press the B button to toggle between white and red.
 
+**SpeedControl** - Allows you to modify HTML video speed using a [Chrome](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) extension. Press the A button to slow down and the B button to speed up. Hold both buttons or slide the switch to the right to start continuously speeding up, release the buttons to return to normal.
+
 ## Can I install these or edit them?
 To install these on your CPX board, simply put the board into bootloader mode and drag the UF2 file for the program you want to the CPLAYBOOT drive. If you want to edit the projects, go to the [CPX MakeCode editor](https://makecode.adafruit.com) and drag the UF2 files into your browser.
